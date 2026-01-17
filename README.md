@@ -76,6 +76,8 @@ These diagrams are included in the `diagrams/` folder.
 ---
 
 ## 📂 Project Structure
+
+```text
 fee-management-system/
 │
 ├── README.md
@@ -86,18 +88,17 @@ fee-management-system/
 ├── user.png
 │
 ├── diagrams/
-│ ├── use-case-diagram.png
-│ ├── class-diagram.png
-│ ├── sequence-view-fee-report.png
-│ ├── component-diagram.png
-│ └── deployment-diagram.png
+│   ├── use-case-diagram.png
+│   ├── class-diagram.png
+│   ├── sequence-view-fee-report.png
+│   ├── component-diagram.png
+│   └── deployment-diagram.png
 │
 ├── Screenshots/
-│ └── fee-report.png
+│   └── fee-report.png
 │
 └── extras/
-└── (practice and experimental files)
-
+    └── (practice and experimental files)
 ---
 
 ## ▶️ Steps to Execute the Project
@@ -155,3 +156,4 @@ This project was developed as part of the academic curriculum with guidance from
 ## 📄 License
 This project is intended for **academic and learning purposes**.  
 Any large-scale deployment may require further validation and institutional approval.
+
