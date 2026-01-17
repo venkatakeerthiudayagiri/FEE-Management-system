@@ -99,6 +99,7 @@ fee-management-system/
 │
 └── extras/
     └── (practice and experimental files)
+    `
 ---
 
 ## ▶️ Steps to Execute the Project
@@ -156,4 +157,5 @@ This project was developed as part of the academic curriculum with guidance from
 ## 📄 License
 This project is intended for **academic and learning purposes**.  
 Any large-scale deployment may require further validation and institutional approval.
+
 
