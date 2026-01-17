@@ -77,28 +77,27 @@ These diagrams are included in the `diagrams/` folder.
 
 ## 📂 Project Structure
 
-fee-management-system/
-│
-├── README.md
-├── index.html
-├── teacher.html
-├── hi.html
-├── style.css
-├── user.png
-│
-├── diagrams/
-│   ├── use-case-diagram.png
-│   ├── class-diagram.png
-│   ├── sequence-view-fee-report.png
-│   ├── component-diagram.png
-│   └── deployment-diagram.png
-│
-├── Screenshots/
-│   └── fee-report.png
-│
-└── extras/
-    └── (practice and experimental files)
----
+- **README.md** – Project documentation
+- **index.html** – Main entry page of the application
+- **teacher.html** – Admin/teacher interface
+- **hi.html** – Additional user interface page
+- **style.css** – Styling for the application
+- **user.png** – User/profile image asset
+
+### 📁 diagrams/
+Contains UML and design diagrams:
+- Use Case Diagram
+- Class Diagram
+- Sequence Diagram (View Fee Report)
+- Component Diagram
+- Deployment Diagram
+
+### 📁 Screenshots/
+- **fee-report.png** – Sample output showing student fee details
+
+### 📁 extras/
+Contains practice and experimental files created during early development.  
+These files are **not part of the final production workflow**.
 
 ## ▶️ Steps to Execute the Project
 
@@ -155,6 +154,7 @@ This project was developed as part of the academic curriculum with guidance from
 ## 📄 License
 This project is intended for **academic and learning purposes**.  
 Any large-scale deployment may require further validation and institutional approval.
+
 
 
 
